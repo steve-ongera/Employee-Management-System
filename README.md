@@ -291,7 +291,7 @@ MIT License
 ## 📞 Contact
 - Steve Ongera 
 - steveongerah@gmail.com
-- Project Link: [GitHub Repository]
+- Project Link: https://github.com/steve-ongera/Employee-Management-System
 
 ---
 
